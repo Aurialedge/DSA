@@ -1,0 +1,14 @@
+| Escape Sequence | Meaning                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| `\n`            | Newline (moves cursor to next line)                                  |
+| `\t`            | Horizontal tab (adds space like tab key)                             |
+| `\\`            | Backslash (`\`) itself                                               |
+| `\'`            | Single quote (`'`)                                                   |
+| `\"`            | Double quote (`"`)                                                   |
+| `\?`            | Question mark (`?`) (used to avoid trigraph issues in old compilers) |
+| `\a`            | Alert (beep sound on some systems)                                   |
+| `\b`            | Backspace (moves cursor one position back)                           |
+| `\r`            | Carriage return (moves cursor to start of same line)                 |
+| `\f`            | Form feed (page break, rarely used now)                              |
+| `\v`            | Vertical tab                                                         |
+| `\0`            | Null character (end of string in C/C++)                              |
