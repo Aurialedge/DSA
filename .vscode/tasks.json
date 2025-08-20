@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\MinGW\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",   // colored error messages
+                "-g",                           // debug info
+                "-Wall",                        // show all warnings
+                "${file}",                      // compile the active file
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe" // output exe in same folder
+            ],
+            "options": {
+                "cwd": "${fileDirname}"          // working dir is file location
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Custom g++ build task"
+        }
+    ]
+}
