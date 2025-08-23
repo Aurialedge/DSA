@@ -1,0 +1,29 @@
+4. Functions (Functors & Utilities)
+
+🎯 Functions you can pass as arguments to algorithms.
+
+Function Objects (Functors):
+
+greater<int>(), less<int>()
+
+Custom comparators with lambdas
+
+Utilities:
+
+pair, make_pair()
+
+tuple, tie()
+
+swap()
+
+iota() (fill with increasing numbers)
+
+📌 DSA Priority Order
+
+pair, make_pair
+
+tuple, tie
+
+greater<int>(), custom comparators
+
+iota()

@@ -1,0 +1,39 @@
+2. Algorithms
+
+⚙️ Functions to operate on containers (defined in <algorithm>).
+
+Sorting & Rearranging
+
+sort(), stable_sort(), reverse(), rotate(), shuffle()
+
+Searching
+
+binary_search(), lower_bound(), upper_bound()
+
+Numeric (<numeric>)
+
+accumulate(), partial_sum(), inner_product()
+
+Min/Max
+
+min(), max(), min_element(), max_element()
+
+Modifying
+
+copy(), swap(), fill(), replace()
+
+Set operations
+
+set_union(), set_intersection(), set_difference()
+
+📌 DSA Priority Order
+
+sort(), reverse()
+
+min/max, min_element/max_element
+
+binary_search(), lower_bound(), upper_bound()
+
+accumulate()
+
+set operations

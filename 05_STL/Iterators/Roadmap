@@ -1,0 +1,35 @@
+3. Iterators
+
+🛠️ Objects to traverse containers (like smart pointers).
+
+Types:
+
+Input Iterator → istream_iterator
+
+Output Iterator → ostream_iterator
+
+Forward Iterator → works forward only
+
+Bidirectional Iterator → works forward & backward (list, set, map)
+
+Random Access Iterator → allows +,-,<,> (vector, deque, array)
+
+Important Functions:
+
+begin(), end()
+
+rbegin(), rend()
+
+advance(it, n) → moves iterator n steps
+
+next(it) / prev(it)
+
+📌 DSA Priority Order
+
+begin(), end()
+
+auto (range-based for loops)
+
+next(), prev(), advance()
+
+rbegin(), rend()

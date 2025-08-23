@@ -1,0 +1,60 @@
+1. Containers (Data Structures)
+
+📦 Store & manage collections of data.
+
+Sequence Containers (linear)
+
+vector
+
+deque
+
+list
+
+array (fixed size)
+
+forward_list (singly linked list)
+
+Associative Containers (sorted by key)
+
+set
+
+multiset
+
+map
+
+multimap
+
+Unordered Containers (hashing-based, average O(1))
+
+unordered_set
+
+unordered_multiset
+
+unordered_map
+
+unordered_multimap
+
+Container Adaptors (modified interface)
+
+stack
+
+queue
+
+priority_queue
+
+📌 DSA Priority Order
+
+vector
+
+stack
+
+queue & deque
+
+set / multiset
+
+map / multimap
+
+unordered_map / unordered_set
+
+priority_queue
+(others like list, forward_list, multimap are low priority unless needed)
