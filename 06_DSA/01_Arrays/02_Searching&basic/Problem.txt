@@ -1,0 +1,29 @@
+Here’s a progression path ⬇️
+
+✅ Basic
+
+704. Binary Search
+
+35. Search Insert Position
+
+✅ Variations
+
+34. Find First and Last Position of Element in Sorted Array
+
+69. Sqrt(x)
+
+74. Search a 2D Matrix
+
+✅ Advanced
+
+33. Search in Rotated Sorted Array
+
+162. Find Peak Element
+
+153. Find Minimum in Rotated Sorted Array
+
+410. Split Array Largest Sum
+ (Binary Search on Answer)
+
+875. Koko Eating Bananas
+ (Binary Search on Answer)
